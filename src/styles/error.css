@@ -1,0 +1,12 @@
+.errorpage{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.errorimg{
+    max-height: 15rem;
+    max-width: 25rem;
+}
